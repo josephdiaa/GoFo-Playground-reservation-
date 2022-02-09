@@ -1,0 +1,32 @@
+Username: AhmedAD
+Password: A1hgfdad
+Email: hyg
+National ID: 3254
+Phone: 6584
+Default location: jyhgrd
+Role: Admin
+
+Username: Yara
+Password: 354
+Email: jhygf
+National ID: 3251
+Phone: 9658
+Default location: iuhg
+Role: Player
+
+Username: Mohamed
+Password: 123
+Email: yhgt
+National ID: 258
+Phone: 36987
+Default location: ligf
+Role: Playground Owner
+
+Username: Arwa
+Password: 258
+Email: aw
+National ID: 321
+Phone: 987
+Default location: ayhaga
+Role: Player
+

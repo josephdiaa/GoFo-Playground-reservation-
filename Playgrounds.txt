@@ -1,0 +1,9 @@
+Playground name: Ahly
+Owner name: Mohamed
+Location: Cairo
+Size: 50.0000
+Available hours: 5.00000
+Price per hour: 10.0000
+cancellation period: 60.0000
+State: Denied
+
